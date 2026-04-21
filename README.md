@@ -5,9 +5,7 @@
 
 The **Smart Cafe Ordering System** is a console-based Python application developed for the **Software Construction and Development Lab**.
 This project simulates a semi-realistic cafe management system with support for customers, staff, dynamic menu handling, and order processing.
-
 Including:
-
          Customers can place orders
          Staff can manage menu items
          Orders are processed with billing
