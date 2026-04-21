@@ -131,6 +131,7 @@ python main.py
 
 ## 2. Making an Order
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/374f8069-0272-45dd-8159-473a56dab0fb" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2fbee74e-c283-4d2c-96c1-3f431489d6f6" />
 
 ---
 
