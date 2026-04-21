@@ -117,16 +117,6 @@ python main.py
 
 ---
 
-## 🧠 Key Concepts for Viva
-
-* **Vector vs List** → Python uses dynamic lists
-* **Inheritance** → Code reuse and hierarchy
-* **Composition** → Order HAS-A MenuItem
-* **File Handling** → Persistent storage
-* **Modularity** → Code divided into multiple files
-* **Exception Handling** → Prevents crashes
----
-
 ## 📸 ScreenShots
 
 
