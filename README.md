@@ -117,31 +117,6 @@ python main.py
 
 ---
 
-## 🔥 Git Requirements (STRICT - EXAM)
-
-### ✅ Minimum Commits
-
-* At least **20 commits required**
-
-### ✅ Commit Message Guidelines
-
-Use meaningful messages such as:
-
-* "Added MenuItem class"
-* "Implemented Order class with quantity support"
-* "Added remove item functionality"
-* "Implemented file handling for menu"
-* "Added billing system with tax calculation"
-* "Implemented search and filter functionality"
-
-❌ Avoid:
-
-* "update"
-* "changes"
-* "fix"
-
----
-
 ### 🌿 Branching Strategy (MANDATORY)
 
 You must create **at least 2 branches**:
