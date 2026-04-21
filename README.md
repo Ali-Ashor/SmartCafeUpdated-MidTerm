@@ -1,4 +1,4 @@
-# SmartCafeUpdated-MidTerm
+
 # ☕ Smart Cafe Ordering System (Extended Version)
 
 ## 📌 Project Overview
