@@ -118,7 +118,7 @@ python main.py
 ---
 
 ## 📸 ScreenShots
-
+## 1. Coding Structure
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/50747f6f-b34b-4d6b-935c-2fff8309e383" />
 
 ---
