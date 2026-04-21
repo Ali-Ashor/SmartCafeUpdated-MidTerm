@@ -117,32 +117,6 @@ python main.py
 
 ---
 
-### 🌿 Branching Strategy (MANDATORY)
-
-You must create **at least 2 branches**:
-
-#### 1. Menu Management Branch
-
-```
-feature/menu-management
-```
-
-#### 2. Order System Branch
-
-```
-feature/order-system
-```
-
-#### Example Commands:
-
-```bash
-git branch feature/menu-management
-git branch feature/order-system
-git checkout feature/menu-management
-```
-
----
-
 ## 🧠 Key Concepts for Viva
 
 * **Vector vs List** → Python uses dynamic lists
