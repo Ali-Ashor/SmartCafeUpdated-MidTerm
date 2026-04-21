@@ -136,14 +136,8 @@ python main.py
 
 ---
 
-## 📸 Deliverables Checklist
+## 📸 ScreenShots
 
-* ✔ Source Code (Modular)
-* ✔ GitHub Repository (20+ commits)
-* ✔ Proper README file
-* ✔ Output screenshots
-* ✔ Viva demonstration
-* ✔ Contribution report
 
 ---
 
