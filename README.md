@@ -96,7 +96,7 @@ SmartCafe/
 │   └── orders.txt
 │
 ├── README.md
-└── .gitignore
+
 ```
 
 ---
