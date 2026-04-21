@@ -125,15 +125,6 @@ python main.py
 * **File Handling** → Persistent storage
 * **Modularity** → Code divided into multiple files
 * **Exception Handling** → Prevents crashes
-
----
-
-## ⭐ Bonus Features (Optional)
-
-* Discount system (e.g., student discount)
-* Login system (username/password)
-* Improved UI/UX
-
 ---
 
 ## 📸 ScreenShots
