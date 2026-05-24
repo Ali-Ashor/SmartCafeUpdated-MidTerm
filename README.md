@@ -263,8 +263,8 @@ SmartCafe/
 
 
 # 📷 Sample Console Output
+<img width="1366" height="690" alt="image" src="https://github.com/user-attachments/assets/40bb7260-67c1-40d6-96b1-b1517a3adf90" />
 
-```txt
 ========== SMART CAFE SYSTEM ==========
 
 1. View Menu
@@ -357,7 +357,7 @@ Install Python 3.x
 Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Smart
+git clone https://github.com/Ali-Ashor/SmartCafeUpdated-MidTerm.git
 
 ---
 
