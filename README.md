@@ -264,14 +264,6 @@ SmartCafe/
 
 # 📷 Sample Console Output
 
-<img width="1366" height="690" alt="image" src="https://github.com/user-attachments/assets/695c3406-dbc4-46e9-b8a2-1b1d6181df47" />
-
-
----
-
-## Main Menu
-
-```txt
 ========== SMART CAFE SYSTEM ==========
 
 1. View Menu
