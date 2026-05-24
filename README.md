@@ -354,17 +354,7 @@ Install Python 3.x
 Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/SmartCafeSystem.git
-```
-
----
-
-## Step 3
-Navigate to Project Folder
-
-```bash
-cd SmartCafeSystem
-```
+git clone https://github.com/yourusername/Smart
 
 ---
 
@@ -386,28 +376,12 @@ This project helps understand:
 - Error handling techniques
 - Console-based application development
 
----
-
-# ⭐ Git Commit Suggestions
-
-```txt
-Initial project setup
-Added MenuItem class
-Implemented Order class
-Added billing system
-Implemented student discount
-Added loyalty points system
-Implemented admin login
-Added file handling
-Implemented search feature
-Improved exception handling
-```
 
 ---
 
 # 👨‍💻 Developed By
 
-## Wajahat Hassan
+## Shujaat Ali
 
 Software Engineering Student  
 Python Developer | OOP Enthusiast
