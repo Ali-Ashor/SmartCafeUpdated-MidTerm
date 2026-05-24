@@ -243,14 +243,8 @@ raise Exception("Order is empty!")
 ```txt
 SmartCafe/
 │
-├── menu.txt
-├── orders.txt
 ├── main.py
 ├── README.md
-│
-└── assets/
-    └── screenshots/
-```
 
 ---
 
