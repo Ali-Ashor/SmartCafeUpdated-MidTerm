@@ -249,7 +249,8 @@ SmartCafe/
 ---
 
 
-## 🛠 Technologies Used
+# 🛠 Technologies Used
+
 
 | Technology | Purpose |
 |---|---|
@@ -261,7 +262,7 @@ SmartCafe/
 ---
 
 
-## 📷 Sample Console Output
+# 📷 Sample Console Output
 
 ```txt
 ========== SMART CAFE SYSTEM ==========
