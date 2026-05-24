@@ -244,6 +244,7 @@ raise Exception("Order is empty!")
 SmartCafe/
 │
 ├── main.py
+|── menu.txt
 ├── README.md
 
 ---
