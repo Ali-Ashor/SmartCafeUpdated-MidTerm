@@ -248,7 +248,8 @@ SmartCafe/
 
 ---
 
-# 🛠 Technologies Used
+
+## 🛠 Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -259,7 +260,8 @@ SmartCafe/
 
 ---
 
-# 📷 Sample Console Output
+
+## 📷 Sample Console Output
 
 ```txt
 ========== SMART CAFE SYSTEM ==========
@@ -358,7 +360,7 @@ git clone https://github.com/yourusername/Smart
 
 ---
 
-## Step 4
+## Step 3
 Run Program
 
 ```bash
