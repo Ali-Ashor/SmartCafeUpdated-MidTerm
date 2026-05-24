@@ -263,8 +263,14 @@ SmartCafe/
 
 
 # 📷 Sample Console Output
-<img width="1366" height="690" alt="image" src="https://github.com/user-attachments/assets/40bb7260-67c1-40d6-96b1-b1517a3adf90" />
 
+<img width="1366" height="690" alt="Smart Cafe Output" src="https://github.com/user-attachments/assets/40bb7260-67c1-40d6-96b1-b1517a3adf90" />
+
+---
+
+## Main Menu
+
+```txt
 ========== SMART CAFE SYSTEM ==========
 
 1. View Menu
@@ -278,6 +284,18 @@ SmartCafe/
 9. Exit
 ```
 
+---
+
+## Features Demonstrated
+
+- Dynamic Menu Display
+- Search & Filter System
+- Order Management
+- Billing System
+- Admin Panel Access
+- Customer Management
+- Exception Handling
+- File Handling
 ---
 
 # 📋 Example Receipt
