@@ -1,0 +1,4 @@
+Burger,500,Fast Food,10
+Pizza,1200,Fast Food,5
+Coffee,300,Drinks,20
+Ice Cream,250,Desserts,15
